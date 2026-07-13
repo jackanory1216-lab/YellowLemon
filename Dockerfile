@@ -18,7 +18,7 @@ EXPOSE 3000
 
 # Start the bot
 CMD [ "npm", "start" ]
-=======
+
 WORKDIR /usr/src/app
 
 ENV NODE_ENV=production
