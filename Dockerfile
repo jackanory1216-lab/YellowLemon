@@ -31,4 +31,3 @@ COPY . .
 EXPOSE 3000
 
 CMD ["npm", "start"]
->>>>>>> 771ebe2 (Reorganize project structure, wire bot config, and fix dependency vulnerabilities)
